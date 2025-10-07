@@ -21,5 +21,5 @@ This assignment introduces you to create a site or blog from your GitHub reposit
 
 ## Course Repository URLs
 
-_Here you should put the URL of your final repository after finishing the given tutorial_
+https://github.com/xabibullayevasadulla-cyber/skills-github-pages
 
